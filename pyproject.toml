@@ -1,9 +1,12 @@
-[tool.poetry]
+[project]
 name = "testing"
 version = "0.1.0"
 description = ""
-authors = ["Vincent <you@example.com>"]
 readme = "README.md"
+license = { text = "MIT" }
+authors = [{ name = "Vincent", email = "you@example.com" }]
+
+[project.urls]
 homepage = "https://github.com/VincentvanderBeek/VincentvanderBeek1"
 
 [tool.poetry.dependencies]
@@ -12,6 +15,7 @@ pandas = "^1.5.0"
 numpy = "^1.24.0"
 scikit-learn = "^1.2.0"
 tensorflow = "^2.12.0"
+ipykernel = "^6.29.5"
 
 [build-system]
 requires = ["poetry-core"]
