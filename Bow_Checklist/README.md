@@ -11,7 +11,7 @@ This is a complete guide for a **bow-only run**, including all weapons, talisman
 |--------------------------|-----------|----------------|------------------------------------------|
 | **Composite Bow**        | STR/D     | 15 STR / 15 DEX| Merchant at Bellum Church                |
 | **Misbegotten Shortbow** | STR/D     | 8 STR / 16 DEX | Dropped by Misbegotten in Castle Morne   |
-| **Bone Bow** *(SOTE)*    | STR/D     | 8 STR / 11 DEX | Dropped by Misbegotten in Castle Morne   |
+| **Bone Bow** *(SOTE)*    | STR/D     | 8 STR / 11 DEX | Found in Belurat Tower Settlement   |
 ---
 
 ### **Longbows**
