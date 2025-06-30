@@ -39,7 +39,7 @@ This is a complete guide for a **bow-only run**, including all weapons, talisman
 |-----------------------------|------------------------------------|-------------------------------------|
 | **Arrow’s Sting Talisman**  | +10% Arrow/Bolt damage             | Tower in Weeping Peninsula          |
 | **Arrow’s Reach Talisman**  | Increases arrow range              | Roundtable Hold                     |
-| **Radagon’s Scarseal**      | +5 STR, +15% damage taken          | Fort Faroth                         |
+| **Radagon’s Soreseal**      | +5 VIG, END, STR, DEX, +15% damage taken          | Fort Faroth                         |
 | **Shard of Alexander**      | +15% Ash of War damage             | Finish Alexander’s questline        |
 | **Ritual Sword Talisman**   | +10% damage at full HP             | Lux Ruins chest                     |
 | **Lord of Blood’s Exultation** | +20% damage on bleed trigger   | Leyndell Catacombs                  |
