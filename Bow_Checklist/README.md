@@ -34,7 +34,7 @@ This is a complete guide for a **bow-only run**, including all weapons, talisman
 
 ## ⚔️ Ashes of War (Relevant for Bows)
 
-### ##Main Game##
+### **Main Game**
 | Name               | Availability                                        | Location                               |
 |--------------------|-----------------------------------------------|--------------------------------------|
 | **Mighty Shot**     | Light bows and Longbows  | Dropped by Teardrop Scarab in Weeping Peninsula |
@@ -44,6 +44,7 @@ This is a complete guide for a **bow-only run**, including all weapons, talisman
 | **Through and Through**| Greatbows only        | Dropped by Invisible Scarab in Altus Plateau   |
 | **Barrage**         | Light Bows only          | Dropped by Teardrop Scarab in Mt. Gelmir |
 
+## **SOTE**
 | Name               | Availability                                        | Location                               |
 |--------------------|-----------------------------------------------|--------------------------------------|
 | **Igon's Drake Hunt**     | Greatbows only                | Dropped by Igon in eastern Gravesite Plain |
@@ -55,7 +56,7 @@ Use these to change the skill on your bow attacks for flexability and better eff
 
 ## 🧷 Talisman List
 
-### **Main Game Talismans**
+### **Main Game**
 | Name                        | Effect                            | Location                            |
 |-----------------------------|------------------------------------|-------------------------------------|
 | **Arrow’s Sting Talisman**  | +10% Arrow/Bolt damage             | Tower in Weeping Peninsula          |
@@ -68,7 +69,7 @@ Use these to change the skill on your bow attacks for flexability and better eff
 | **Prosthesis-Wearer Heirloom** | +5 DEX                        | Millicent’s questline               |
 | **Starscourge Heirloom**    | +5 STR                             | Fort Gael                           |
 
-### **SOTE Talismans**
+### **SOTE**
 | Name                              | Effect                        | Location                   |
 |-----------------------------------|--------------------------------|----------------------------|
 | **Outer God Heirloom**            | +5 ARC                        | Shadow Keep (sealed door)  |
