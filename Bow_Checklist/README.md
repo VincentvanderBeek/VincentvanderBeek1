@@ -11,7 +11,7 @@ This is a complete guide for a **bow-only run**, including all weapons, talisman
 |--------------------------|-----------|----------------|------------------------------------------|
 | **Composite Bow**        | STR/D     | 15 STR / 15 DEX| Merchant at Bellum Church                |
 | **Misbegotten Shortbow** | STR/D     | 8 STR / 16 DEX | Dropped by Misbegotten in Castle Morne   |
-
+| **Bone Bow**             | STR/D     | 8 STR / 11 DEX | Dropped by Misbegotten in Castle Morne   |
 ---
 
 ### **Longbows**
@@ -29,19 +29,24 @@ This is a complete guide for a **bow-only run**, including all weapons, talisman
 |------------------------|-----------|----------------|------------------------------------------|
 | **Radahn’s Lion Greatbow** | STR/D | 22 STR / 18 DEX | Remembrance of the Starscourge          |
 | **Golem Greatbow**     | STR       | 24 STR / 18 DEX | Dropped by Golem Archers (Limgrave)     |
-
+| **Igon's Greatbow** *(SOTE)*    | STR       | 23 STR / 16 DEX | Dropped by Igon in eastern Gravesite Plain    |
 ---
 
 ## ⚔️ Ashes of War (Relevant for Bows)
 
-| Name               | Effect                                        | Location                               |
+### ##Main Game##
+| Name               | Availability                                        | Location                               |
 |--------------------|-----------------------------------------------|--------------------------------------|
-| **Mighty Shot**     | Adds magic damage to bow attacks                | Dropped by Teardrop Scarab in Weeping Peninsula |
-| **Sky Shot**    | Adds poison buildup effect                       | Dropped by Teardrop Scarab in Dragonbarrow |
-| **Enchanted Shot**     | Adds fire damage and burn buildup                | Dropped by Teardrop Beetle in Nokron, Eternal City |
-| **Rain of Arrows**| Adds bleed buildup and fire damage               | Found in Caelid, Redmane Painting location    |
-| **Through and Through**| Increases attack speed and power temporarily    | Dropped by Invisible Scarab in Altus Plateau   |
-| **Barrage**| Increases attack speed and power temporarily    | Dropped by Teardrop Scarab in Mt. Gelmir |
+| **Mighty Shot**     | Light bows and Longbows  | Dropped by Teardrop Scarab in Weeping Peninsula |
+| **Sky Shot**        | Light bows and Longbows  | Dropped by Teardrop Scarab in Dragonbarrow |
+| **Enchanted Shot**  | Light bows and Longbows  | Dropped by Teardrop Beetle in Nokron, Eternal City |
+| **Rain of Arrows**  | All Bows                 | Found in Caelid, Redmane Painting location    |
+| **Through and Through**| Greatbows only        | Dropped by Invisible Scarab in Altus Plateau   |
+| **Barrage**         | Light Bows only          | Dropped by Teardrop Scarab in Mt. Gelmir |
+
+| Name               | Availability                                        | Location                               |
+|--------------------|-----------------------------------------------|--------------------------------------|
+| **Igon's Drake Hunt**     | Greatbows only                | Dropped by Igon in eastern Gravesite Plain |
 
 Use these to change the skill on your bow attacks for flexability and better effects to get status on bosses.
 
