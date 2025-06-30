@@ -92,8 +92,8 @@ Use **Finger Seal** early. Switch to **Golden Order Seal** once your stats suppo
 
 | Name              | Scaling   | Requirements       | Effect                                   | Location                      |
 |-------------------|-----------|--------------------|------------------------------------------|-------------------------------|
-| **Golden Epitaph**| FAI/D     | 12 STR / 10 DEX / 14 FAI | Grants "Holy Weapon" buff to all weapons | Auriza Hero’s Grave           |
-
+| **Golden Epitaph**| FAI/DEX     | 12 STR / 10 DEX / 14 FAI | Grants "Holy Weapon" buff to all weapons | Auriza Hero’s Grave           |
+| **Dagger w/ Golden Vow**| DEX     | 5 STR / 9 DEX | +15% damage                    | Mt. Gelmir                      |
 Use this to apply holy damage to your bows for extra elemental scaling (buff only, not for melee use).
 
 ---
@@ -107,8 +107,6 @@ Use this to apply holy damage to your bows for extra elemental scaling (buff onl
 | **Howl of Shabriri**   | 21 FAI      | +30% damage, +25% damage taken (40 sec)                | Frenzied Flame Village          |
 | **Flame, Cleanse Me**  | 12 FAI      | Cures poison and rot                                   | Callu Baptismal Church          |
 | **Bestial Vitality**   | 12 FAI      | Heals HP over time                                     | Gurranq after Bestial Claw      |
-| **Great Heal**         | 30 FAI      | Heals large HP for self and allies                     | Leyndell, behind throne         |
-| **Blessing of the Erdtree** | 38 FAI | Heals massive HP over time (60 sec)                   | Queen’s Bedchamber, Leyndell    |
 
 ---
 
