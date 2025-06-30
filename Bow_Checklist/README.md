@@ -94,7 +94,8 @@ Use **Finger Seal** early. Switch to **Golden Order Seal** once your stats suppo
 |-------------------|-----------|--------------------|------------------------------------------|-------------------------------|
 | **Golden Epitaph**| FAI/DEX     | 12 STR / 10 DEX / 14 FAI | Grants "Holy Weapon" buff to all weapons | Auriza Hero’s Grave           |
 | **Dagger w/ Golden Vow**| DEX     | 5 STR / 9 DEX | +15% damage                    | Mt. Gelmir                      |
-Use this to apply holy damage to your bows for extra elemental scaling (buff only, not for melee use).
+
+Use this to apply damage buffs to your bows (buff only, not for melee use).
 
 ---
 
