@@ -53,7 +53,6 @@ This is a complete guide for a **bow-only run**, including all weapons, talisman
 | **Outer God Heirloom**            | +5 ARC                        | Shadow Keep (sealed door)  |
 | **Sharpshot Talisman**            | Boosts charged bow shots      | Cave in Scadu Altus        |
 | **Arrow’s Soaring Sting Talisman**| Greatly boosts arrow range    | Belurat Gaol               |
-| **Two-Handed Sword Talisman**     | Boosts 2H melee (not used)    | Castle Ensis               |
 
 ---
 
