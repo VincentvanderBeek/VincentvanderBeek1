@@ -32,6 +32,22 @@ This is a complete guide for a **bow-only run**, including all weapons, talisman
 
 ---
 
+## ⚔️ Ashes of War (Relevant for Bows)
+
+| Name               | Effect                                        | Location                               |
+|--------------------|-----------------------------------------------|--------------------------------------|
+| **Mighty Shot**     | Adds magic damage to bow attacks                | Dropped by Teardrop Scarab in Weeping Peninsula |
+| **Sky Shot**    | Adds poison buildup effect                       | Dropped by Teardrop Scarab in Dragonbarrow |
+| **Enchanted Shot**     | Adds fire damage and burn buildup                | Dropped by Teardrop Beetle in Nokron, Eternal City |
+| **Rain of Arrows**| Adds bleed buildup and fire damage               | Found in Caelid, Redmane Painting location    |
+| **Through and Through**| Increases attack speed and power temporarily    | Dropped by Invisible Scarab in Altus Plateau   |
+| **Barrage**| Increases attack speed and power temporarily    | Dropped by Teardrop Scarab in Mt. Gelmir |
+
+Use these to change the skill on your bow attacks for flexability and better effects to get status on bosses.
+
+
+
+
 ## 🧷 Talisman List
 
 ### **Main Game Talismans**
