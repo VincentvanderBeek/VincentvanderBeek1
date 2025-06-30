@@ -1,16 +1,16 @@
 # 🏹 Bow-Only Build – Elden Ring + Shadow of the Erdtree (SOTE)
 
-This is a complete guide for a **bow-only run**, including all weapons, talismans, spells, and cookbooks. Focused on range combat—no melee weapons included.
+This is a complete guide for a **bow-only run**, including all weapons, talismans, seals, buff spells, and cookbooks. Focused on range combat—no melee weapons used for attacking.
 
 ---
 
 ## 🎯 Bows by Type
 
 ### **Shortbows**
-| Name                   | Scaling   | Requirements   | Location                                 |
-|------------------------|-----------|----------------|------------------------------------------|
-| **Composite Bow**      | STR/D     | 15 STR / 15 DEX| Merchant at Bellum Church                |
-| **Misbegotten Shortbow** | STR/D   | 8 STR / 16 DEX | Dropped by Misbegotten in Castle Morne   |
+| Name                     | Scaling   | Requirements   | Location                                 |
+|--------------------------|-----------|----------------|------------------------------------------|
+| **Composite Bow**        | STR/D     | 15 STR / 15 DEX| Merchant at Bellum Church                |
+| **Misbegotten Shortbow** | STR/D     | 8 STR / 16 DEX | Dropped by Misbegotten in Castle Morne   |
 
 ---
 
@@ -50,10 +50,31 @@ This is a complete guide for a **bow-only run**, including all weapons, talisman
 ### **SOTE Talismans**
 | Name                              | Effect                        | Location                   |
 |-----------------------------------|--------------------------------|----------------------------|
-| **Outer God Heirloom**            | +5 FAI                        | Shadow Keep (sealed door)  |
+| **Outer God Heirloom**            | +5 ARC                        | Shadow Keep (sealed door)  |
 | **Sharpshot Talisman**            | Boosts charged bow shots      | Cave in Scadu Altus        |
 | **Arrow’s Soaring Sting Talisman**| Greatly boosts arrow range    | Belurat Gaol               |
 | **Two-Handed Sword Talisman**     | Boosts 2H melee (not used)    | Castle Ensis               |
+
+---
+
+## ✝️ Seals (for Buff Casting Only)
+
+| Name                    | Scaling   | Requirements   | Location                               |
+|-------------------------|-----------|----------------|----------------------------------------|
+| **Finger Seal**         | FAI       | 10 FAI         | Twin Maiden Husks (800 runes)         |
+| **Golden Order Seal**   | INT/FAI   | 17 FAI / 17 INT| Minor Erdtree Church, Altus Plateau    |
+
+Use **Finger Seal** early. Switch to **Golden Order Seal** once your stats support it.
+
+---
+
+## 🗡️ Buff-Only Weapon
+
+| Name              | Scaling   | Requirements       | Effect                                   | Location                      |
+|-------------------|-----------|--------------------|------------------------------------------|-------------------------------|
+| **Golden Epitaph**| FAI/D     | 12 STR / 10 DEX / 14 FAI | Grants "Holy Weapon" buff to all weapons | Auriza Hero’s Grave           |
+
+Use this to apply holy damage to your bows for extra elemental scaling (buff only, not for melee use).
 
 ---
 
