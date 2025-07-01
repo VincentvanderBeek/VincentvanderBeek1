@@ -144,3 +144,4 @@ This is a complete guide for a **bow-only run**, including all weapons, talisman
 | **Exalted Flesh**      | Armorer's Cookbook [3]        | +20% Physical attack         | [Link] |
 
 ---
+
