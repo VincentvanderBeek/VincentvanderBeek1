@@ -1,7 +1,5 @@
 # 🏹 Bow-Only Build – Elden Ring + Shadow of the Erdtree
 
-Oct 24, 2026 · @Vincent van der Beek
-
 Complete checklist for a bow-only run: every bow, talisman, seal, buff spell, ash of war, cookbook, consumable and arrow. Ranged only — no melee weapons used for attacking.
 
 ## Light Bows (6 of 6)
