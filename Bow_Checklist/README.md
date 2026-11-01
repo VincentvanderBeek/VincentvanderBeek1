@@ -16,10 +16,12 @@ A ranged-only run: no melee weapons used for attacking. Two finished setups belo
 | **Boss burst** | **Lion Greatbow** + Radahn's Spears | Radahn's Rain fires about 50% more projectiles than Rain of Arrows. Radahn's Spears add a 20% damage buff on top. |
 | **Status** | **Serpent Bow** | Niche pick: +15 poison on every arrow, Arcane scaling speeds status build-up. Swapped in for long fights only. |
 
-**Talismans:** Arrow's Sting · Arrow's Reach · Shard of Alexander · Ritual Sword
-**Spells:** Howl of Shabriri + Golden Vow (or Flame, Grant Me Strength + Golden Vow at low Faith — Shabriri and Flame do not stack)
-**Physick:** Stonebarb Cracked Tear + Opaline Hardtear
-**Ammo:** Bone Great Arrow (Fletched) in bulk · Golem's Great Arrows for the sniper · Radahn's Spears for the Lion · status arrows on the Composite
+**Everything else**
+
+- **Talismans** — Arrow's Sting, Arrow's Reach, Shard of Alexander, Ritual Sword
+- **Spells** — Howl of Shabriri + Golden Vow, or Flame, Grant Me Strength + Golden Vow at low Faith. Shabriri and Flame do not stack.
+- **Physick** — Stonebarb Cracked Tear + Opaline Hardtear
+- **Ammo** — Bone Great Arrow (Fletched) in bulk, Golem's Great Arrows for the sniper, Radahn's Spears for the Lion, status arrows on the Composite
 
 ## DLC end setup
 
@@ -30,9 +32,13 @@ A ranged-only run: no melee weapons used for attacking. Two finished setups belo
 | **Sniper** | **Golem Greatbow**, or **Greatbow** with Igon's Drake Hunt | Golem for raw power; the infusible Greatbow pulls ahead at high levels thanks to quality scaling. |
 | **Status** | **Bone Bow** + Stormwing Bone Arrows | Rancor Shot costs 3 FP and tracks hard. A post-DLC patch gutted status build-up in PvE, so this is for damage and tracking now, not procs. |
 
-**Talismans:** Arrow's Sting · Arrow's Soaring Sting · Shard of Alexander · Ritual Sword
-**Armor:** Rakshasa's Set — 2% extra damage per piece
-**Everything else:** same spells, same physick, same ammo plan
+**Everything else**
+
+- **Talismans** — Arrow's Sting, Arrow's Soaring Sting, Shard of Alexander, Ritual Sword
+- **Armour** — Rakshasa's Set, 2% extra damage per piece
+- **Spells** — unchanged from the base game setup
+- **Physick** — unchanged from the base game setup
+- **Ammo** — unchanged, plus Stormwing Bone Arrows for the Bone Bow
 
 The DLC setup costs **no extra stat points** if you follow the spread below: 55 Dexterity already covers Ansbach's 43.
 
