@@ -17,7 +17,7 @@ A ranged-only run: no melee weapons used for attacking. Two finished setups belo
 | **Status** | **Serpent Bow** | Niche pick: +15 poison on every arrow, Arcane scaling speeds status build-up. Swapped in for long fights only. |
 
 **Talismans:** Arrow's Sting · Arrow's Reach · Shard of Alexander · Ritual Sword
-**Spells:** Flame, Grant Me Strength · Howl of Shabriri
+**Spells:** Howl of Shabriri + Golden Vow (or Flame, Grant Me Strength + Golden Vow at low Faith — Shabriri and Flame do not stack)
 **Physick:** Stonebarb Cracked Tear + Opaline Hardtear
 **Ammo:** Bone Great Arrow (Fletched) in bulk · Golem's Great Arrows for the sniper · Radahn's Spears for the Lion · status arrows on the Composite
 
@@ -69,18 +69,20 @@ Two slots are locked, two are yours. **Locked:** Arrow's Sting always, plus Arro
 
 ## Where to end up
 
-| Stat | Base game | With DLC | Why |
-| --- | --- | --- | --- |
-| Vigor | 40 | 40 | First soft cap. Go 60 if Shabriri's +25% damage taken keeps killing you. |
-| Mind | 25 | 30 | Radahn's Rain and Fan Shot both cost real FP, unlike plain shots. |
-| Endurance | 30 | 30 | Equip load soft caps at 25, and two greatbows are around 20 units before armour. |
-| Strength | 30 | 30 | 24 lifts the Golem Greatbow, the highest requirement here. More is real damage, since greatbows scale D in Strength — but Dexterity pays first. |
-| **Dexterity** | **55** | **55** | Soft cap and the scaling stat on everything you carry. Also covers Ansbach's 43 for free. |
-| Intelligence | 9 | 9 | Unused. Take 17 only if you want the Golden Order Seal. |
-| Faith | 21 | 21 | Set exactly by Howl of Shabriri. Flame, Grant Me Strength needs only 15. |
-| Arcane | 11 | 11 | Wields the Serpent Bow. Only go 30 if poison and rot are genuinely the plan — Arcane boosts status build-up, not damage. |
+Every stat here is a range. The minimum is what the gear and spells actually demand; the maximum is the soft cap where points stop paying well. Anywhere between the two is a legitimate build.
 
-That lands around **level 150**.
+| Stat | Min | Max | What the range means |
+| --- | --- | --- | --- |
+| Vigor | 40 | 60 | 40 and 60 are the two soft caps. 40 is survivable at range; 60 is the answer if Shabriri's +25% damage taken keeps killing you. |
+| Mind | 20 | 30 | Plain shots cost nothing. 20 covers occasional skills, 30 covers Radahn's Rain and Fan Shot spam. |
+| Endurance | 25 | 40 | 25 is the equip-load soft cap and enough for one greatbow plus light armour. 40 lets you carry two greatbows and still medium-roll. |
+| Strength | 24 | 55 | 24 lifts the Golem Greatbow. 55 is the soft cap and real damage, since every greatbow scales D in Strength. |
+| Dexterity | 20 | 55 | 20 wields everything in the base game. **43** unlocks Ansbach's Longbow. 55 is the soft cap and your main scaling stat. |
+| Intelligence | 9 | 17 | Unused unless you want the Golden Order Seal at 17. Buffs cast identically from any seal, so this is optional. |
+| Faith | 15 | 33 | 15 for Flame, Grant Me Strength. 25 for Golden Vow. **33 for Howl of Shabriri**, the most expensive requirement in the build. |
+| Arcane | 11 | 30 | 11 wields the Serpent Bow. 30 only if poison and rot are genuinely the plan — Arcane boosts status build-up, not damage. |
+
+Minimums throughout land near **level 100**. Maximums throughout land near **level 170**. A sensible finish sits in the middle, around 140.
 
 ## The floors
 
@@ -93,19 +95,20 @@ That lands around **level 150**.
 | Black Bow | 9 STR / 20 DEX |
 | Composite Bow | 15 STR / 15 DEX |
 | Serpent Bow | 8 STR / 15 DEX / 11 ARC |
-| Howl of Shabriri | 21 FAI |
+| Howl of Shabriri | **33 FAI** — **highest Faith in the kit** |
+| Golden Vow (incantation) | 25 FAI, or **0** as an ash of war on a dagger |
 | Flame, Grant Me Strength | 15 FAI |
 | Finger Seal | 10 FAI |
 
-**Floor: 24 STR, 20 DEX, 21 FAI, 11 ARC** — or 43 DEX once you want Ansbach's.
+**Absolute floor: 24 STR, 20 DEX, 15 FAI, 11 ARC.** Add 43 DEX for Ansbach's and 33 FAI for Shabriri once you want them.
 
 ## Priority order
 
 1. **Clear the floors.** Nothing works until these are in.
-2. **Dexterity to 55.** Scales every bow you carry and unlocks Ansbach's on the way.
-3. **Endurance to 30.** Two greatbows plus armour is what decides your roll.
-4. **Strength to 30.** Enough for the Golem Greatbow with room to spare.
-5. **Vigor to 40**, or 60 if you keep dying through Shabriri.
+2. **Dexterity to 55.** Scales every bow you carry and passes Ansbach's 43 on the way.
+3. **Endurance to 25, then 30+.** Two greatbows plus armour is what decides your roll.
+4. **Strength to 55.** Pays on every greatbow once Dexterity is capped.
+5. **Vigor from 40 toward 60**, sooner if you are running Shabriri.
 6. **To taste:** Mind to 30 if you run dry mid-boss, Arcane to 30 if you commit to status.
 
 Buff incantations have fixed effects and do not scale with a seal, so any seal casts them identically. Use the cheapest one you can wield — the Finger Seal at 10 Faith does the same job as the Golden Order Seal at 17/17.
@@ -128,7 +131,22 @@ Only the picks that earn a slot. Everything else is either strictly worse or has
 | [Bone Bow](https://eldenring.wiki.fextralife.com/Bone+Bow) *(DLC)* | B | 8 / 11 | Belurat, Tower Settlement |
 | [Serpent Bow](https://eldenring.wiki.fextralife.com/Serpent+Bow) | Niche | 8 / 15 / 11 ARC | Abandoned Cave, Caelid |
 
-**Deliberately left out:** Longbow and Albinauric Bow (medium bows with no identity, and the Albinauric's Consecrated Snowfield farm is not worth it), Igon's Greatbow (the plain Greatbow's quality scaling beats it at the levels you find it), Erdtree Bow and Erdtree Greatbow (holy is widely resisted), Horn Bow (weak Intelligence scaling), Misbegotten Shortbow (worst range in its class), and Shortbow, Red Branch Shortbow and Harp Bow (all strictly worse than the Composite).
+## The rest of the bows
+
+Left out of the build above, but here is where they are and why they did not make it.
+
+| Bow | Tier | Req | Location | Why it is left out |
+| --- | --- | --- | --- | --- |
+| [Longbow](https://eldenring.wiki.fextralife.com/Longbow) | B | 9 / 14 | Samurai starting gear; Twin Maiden Husks | Infusible and available immediately, but stuck between light bows on speed and greatbows on range. Fine as a stopgap. |
+| [Albinauric Bow](https://eldenring.wiki.fextralife.com/Albinauric+Bow) | B | 7 / 18 | Albinauric Wolfback Archer drops, Consecrated Snowfield | The best infusible medium bow, but the farm is painful and the gain over a Longbow is small. |
+| [Igon's Greatbow](https://eldenring.wiki.fextralife.com/Igon's+Greatbow) *(DLC)* | D | 23 / 16 | Igon's corpse, Foot of the Jagged Peak, after Bayle | Better Strength scaling than the plain Greatbow, but quality scaling beats it at the levels you find it, and the Golem hits harder on pure Strength. |
+| [Erdtree Bow](https://eldenring.wiki.fextralife.com/Erdtree+Bow) | C | 8 / 12 / 14 FAI | Chest by the Erdtree Sanctuary grace, Leyndell | Split holy damage is widely resisted, and it cannot be infused. Good for skeleton-heavy catacombs on a Faith build. |
+| [Erdtree Greatbow](https://eldenring.wiki.fextralife.com/Erdtree+Greatbow) | C | 20 / 14 / 14 FAI | Fringefolk Hero's Grave — drop a pot on the chariot (2 Stonesword Keys) | Same holy problem, and Mighty Shot is its only skill. Strong against holy-weak targets like Death Birds. |
+| [Horn Bow](https://eldenring.wiki.fextralife.com/Horn+Bow) | D | 10 / 14 / 12 INT | Siofra River, under the stairs to Hallowhorn Grounds | Adds magic damage to every arrow, but the Intelligence scaling is weak and sorcery already snipes better. |
+| [Misbegotten Shortbow](https://eldenring.wiki.fextralife.com/Misbegotten+Shortbow) | C | 16 / 8 | Misbegotten drop, Castle Morne | Highest damage of the light bows on paper, worst range in the class. Falloff means the Composite out-damages it in practice. |
+| [Shortbow](https://eldenring.wiki.fextralife.com/Shortbow) | D | 8 / 10 | Bandit starting gear; Nomadic Merchant, West Limgrave | Only virtue is being available at minute one. Two more points of Strength gets you the Composite instead. |
+| [Red Branch Shortbow](https://eldenring.wiki.fextralife.com/Red+Branch+Shortbow) | F | 8 / 16 | Drop, Tombsward Ruins, Weeping Peninsula | Loses to the Composite on damage and availability, and has an annoying farm attached. |
+| [Harp Bow](https://eldenring.wiki.fextralife.com/Harp+Bow) | F | 9 / 9 | Reward for the Champion's Song painting (Shaded Castle) | Lowest damage of any bow in the game, cannot be infused, locked to Barrage, and you find it late. |
 
 ---
 
@@ -166,12 +184,18 @@ Arrow's Soaring Sting and Arrow's Sting stack to roughly **+18.8% arrow damage**
 
 # ✨ Buffs
 
-| Buff | Cost | Effect | Where |
+| Buff | Requires | Effect | Where |
 | --- | --- | --- | --- |
+| [Howl of Shabriri](https://eldenring.wiki.fextralife.com/Howl+of+Shabriri) | **33 FAI**, 21 FP | +30% attack, +25% damage taken | Chest on the second floor of the Frenzy-Flaming Tower, Liurnia |
+| [Golden Vow](https://eldenring.wiki.fextralife.com/Golden+Vow) | 25 FAI, or 0 as an ash | +15% attack, +10% defence | Corpse Stench Shack, Mt. Gelmir (ash: corpse by the lava) |
 | [Flame, Grant Me Strength](https://eldenring.wiki.fextralife.com/Flame,+Grant+Me+Strength) | 15 FAI | +20% physical and fire attack | Fort Gael, Caelid |
-| [Howl of Shabriri](https://eldenring.wiki.fextralife.com/Howl+of+Shabriri) | 21 FAI | +30% attack, +25% damage taken | Village of the Albinaurics |
 | [Exalted Flesh](https://eldenring.wiki.fextralife.com/Exalted+Flesh) | — | +20% physical attack | Armorer's Cookbook (3) |
 | [Pickled Turtle Neck](https://eldenring.wiki.fextralife.com/Pickled+Turtle+Neck) | — | Faster stamina recovery | Nomadic Warrior's Cookbook (3) |
+
+**Howl of Shabriri and Flame, Grant Me Strength do not stack** — they occupy the same buff category and overwrite each other. Golden Vow stacks with either. So the two real options are:
+
+- **Budget (15 FAI):** Flame, Grant Me Strength + Golden Vow as an ash of war on a cheap dagger. No Faith needed for the Vow at all.
+- **Full (33 FAI):** Howl of Shabriri + Golden Vow. Stronger, but you pay 18 extra Faith levels and take 25% more damage.
 
 Bows **cannot be weapon-buffed** — no greases, no Holy Weapon, nothing. Only body buffs that raise your own attack rating carry over to arrows. That is why this list is short.
 
@@ -193,17 +217,27 @@ Bows **cannot be weapon-buffed** — no greases, no Holy Weapon, nothing. Only b
 
 Golem's Great Arrows come from Golem Archers rather than a shop, so farm them whenever you pass one.
 
-## Craftable — cookbooks worth owning
+## Craftable — every cookbook worth owning
 
-| Cookbook | Unlocks | Where |
+Each cookbook links to its Fextralife page, which carries the interactive map marker for the exact spot.
+
+| Cookbook | Unlocks | Location |
 | --- | --- | --- |
-| Nomadic Warrior's 13 | **Bone Great Arrow (Fletched)** — your bulk greatbow ammo | Liurnia merchant |
-| Nomadic Warrior's 1 | Bone Arrow (Fletched) | Kalé, Church of Elleh |
-| Nomadic Warrior's 6 | Bloodbone Arrow (Fletched) | Fort Haight, upper room |
-| Nomadic Warrior's 10 | Stormwing Bone Arrow | Stormveil rooftop path |
-| Nomadic Warrior's 15 | Rotbone Arrow (Fletched) | Caelid merchant, south |
-| Fevor's 2 | Sleepbone Arrow (Fletched) | Isolated Merchant, south-east of the Academy Gate |
-| Glintstone Craftsman's 7 | Coldbone Arrow (Fletched) | Pidia, Caria Manor |
+| [Nomadic Warrior's 1](https://eldenring.wiki.fextralife.com/Nomadic+Warrior's+Cookbook+(1)) | Bone Arrow (Fletched) | Kalé, Church of Elleh, Limgrave |
+| [Nomadic Warrior's 3](https://eldenring.wiki.fextralife.com/Nomadic+Warrior's+Cookbook+(3)) | Poisonbone Arrow (Fletched), **Pickled Turtle Neck** | Merchant east of Saintsbridge, Limgrave |
+| [Nomadic Warrior's 6](https://eldenring.wiki.fextralife.com/Nomadic+Warrior's+Cookbook+(6)) | Bloodbone Arrow (Fletched) | Fort Haight, upper room, Limgrave |
+| [Nomadic Warrior's 7](https://eldenring.wiki.fextralife.com/Nomadic+Warrior's+Cookbook+(7)) | Rainbow Stone Arrow | Stormveil Castle, bridge ledge |
+| [Nomadic Warrior's 10](https://eldenring.wiki.fextralife.com/Nomadic+Warrior's+Cookbook+(10)) | Stormwing Bone Arrow | Stormveil Castle, rooftop path |
+| [Nomadic Warrior's 11](https://eldenring.wiki.fextralife.com/Nomadic+Warrior's+Cookbook+(11)) | Shattershard Arrow | Liurnia merchant |
+| [Nomadic Warrior's 13](https://eldenring.wiki.fextralife.com/Nomadic+Warrior's+Cookbook+(13)) | **Bone Great Arrow (Fletched)** — your bulk greatbow ammo | Liurnia merchant |
+| [Nomadic Warrior's 15](https://eldenring.wiki.fextralife.com/Nomadic+Warrior's+Cookbook+(15)) | Rotbone Arrow (Fletched) | Caelid merchant, south |
+| [Armorer's 2](https://eldenring.wiki.fextralife.com/Armorer's+Cookbook+(2)) | Firebone Arrow (Fletched) | Merchant south-east of Coastal Cave, Limgrave |
+| [Armorer's 3](https://eldenring.wiki.fextralife.com/Armorer's+Cookbook+(3)) | **Exalted Flesh** | Isolated Merchant, Dragonbarrow |
+| [Glintstone Craftsman's 5](https://eldenring.wiki.fextralife.com/Glintstone+Craftsman's+Cookbook+(5)) | Magicbone Arrow (Fletched) | Raya Lucaria, Schoolhouse Classroom chest |
+| [Glintstone Craftsman's 7](https://eldenring.wiki.fextralife.com/Glintstone+Craftsman's+Cookbook+(7)) | Coldbone Arrow (Fletched) | Pidia, Caria Manor |
+| [Missionary's 4](https://eldenring.wiki.fextralife.com/Missionary's+Cookbook+(4)) | Haligbone Arrow (Fletched) | Minor Erdtree Church, Altus Plateau |
+| [Ancient Dragon Apostle's 1](https://eldenring.wiki.fextralife.com/Ancient+Dragon+Apostle's+Cookbook+(1)) | Lightningbone Arrow (Fletched) | Wyndham Catacombs, Altus Plateau |
+| [Fevor's 2](https://eldenring.wiki.fextralife.com/Fevor's+Cookbook+(2)) | Sleepbone Arrow (Fletched) | Isolated Merchant, south-east of the Academy Gate |
 
 Always craft the Fletched version — same materials, longer range. Buy every arrow bell bearing you find and hand them to the Twin Maiden Husks. Ammunition is the real constraint on a bow-only run, not damage.
 
